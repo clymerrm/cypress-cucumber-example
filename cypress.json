@@ -1,0 +1,7 @@
+{
+  "video": false,
+  "testFiles": "**/*.feature",
+  "env": {
+    "url": "https://example.cypress.io/todo"
+  }
+}
